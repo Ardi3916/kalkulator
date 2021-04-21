@@ -1,0 +1,30 @@
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe.config
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.pdb
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csprojAssemblyReference.cache
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Form1.resources
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Properties.Resources.resources
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.GenerateResource.cache
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.CoreCompileInputs.cache
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.exe
+D:\pelajaran\UKK 2021\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.pdb
+E:\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe.config
+E:\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe
+E:\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.pdb
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csprojAssemblyReference.cache
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Form1.resources
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Properties.Resources.resources
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.GenerateResource.cache
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.CoreCompileInputs.cache
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.exe
+E:\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.pdb
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe.config
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.pdb
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csprojAssemblyReference.cache
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Form1.resources
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Properties.Resources.resources
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.GenerateResource.cache
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.CoreCompileInputs.cache
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.exe
+E:\Bootcamp\Pemrograman Dasar\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.pdb
